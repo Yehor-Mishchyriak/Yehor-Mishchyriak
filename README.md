@@ -1,9 +1,11 @@
 <h1 align="center">Greetings! 👋, I'm Yehor Mishchyriak</h1>
 <h3 align="center">Junior Python programmer / founder of YM Soft</h3>
 
-
 - 🔭 I’m currently working on [OSME](https://github.com/Yehor-Mishchyriak/OSME)
-:heartpulse:  All of my projects are available at [https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view](https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view)
+
+- :space_invader:  Google Play [YM Soft](https://play.google.com/store/apps/dev?id=4839196923772656596)
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view](https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view)
 
 - 📫 How to reach me **ymsoftoffice@gmail.com**
 
