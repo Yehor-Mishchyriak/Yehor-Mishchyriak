@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on [OSME](https://github.com/Yehor-Mishchyriak/OSME)
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view](https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view)
+:heartpulse:  All of my projects are available at [https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view](https://drive.google.com/file/d/1ChMBljR850mjGEOGOWTPy3Tdnv7ET1yo/view)
 
 - 📫 How to reach me **ymsoftoffice@gmail.com**
 
