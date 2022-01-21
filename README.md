@@ -1,7 +1,6 @@
 <h1 align="center">Greetings! 👋, I'm Yehor Mishchyriak</h1>
 <h3 align="center">Junior Python programmer / founder of YM Soft</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehor-mishchyriak&label=Profile%20views&color=0e75b6&style=flat" alt="yehor-mishchyriak" /> </p>
 
 - 🔭 I’m currently working on [OSME](https://github.com/Yehor-Mishchyriak/OSME)
 
